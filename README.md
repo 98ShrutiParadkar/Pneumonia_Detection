@@ -7,13 +7,13 @@ useful in image classification tasks.
 In this work, we appraise the functionality of pre-trained CNN models utilized as feature extractors followed by different classifiers for the classification of abnormal and normal chest XRays. We analytically determine the optimal CNN model for
 the purpose
 
-![Detection](https://i.pinimg.com/736x/6c/f2/f5/6cf2f5d71879548c0bbf949f4f904711.jpg)
+![Detection](https://t3.ftcdn.net/jpg/04/18/16/40/360_F_418164052_QGPKROsHIZryZi8f6UOFt2s8VLoDQBYh.jpg)
 
 ## Dataset
 
  - [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/data)
 
-![Dataset](https://www.researchgate.net/publication/346090898/figure/fig1/AS:11431281175947411@1689960174264/The-diagram-of-pneumonia-effects-A-and-the-example-of-chest-X-ray-in-patients-with.png)
+![Dataset](https://www.mdpi.com/diagnostics/diagnostics-10-00417/article_deploy/html/images/diagnostics-10-00417-g002.png)
  
 ## Scope of the Solution
 This solution can be used to develop a pneumonia detection system that can help clinicians make accurate and timely diagnosis. The system can analyze medical images such as chest X-rays or CT scans and detect the presence of pneumonia based on the patterns and features in the images. The system can also be trained on large datasets of medical records to identify the risk factors and symptoms associated with pneumonia, which can help clinicians make
